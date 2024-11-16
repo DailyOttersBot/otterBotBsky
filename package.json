@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"@atproto/api": "^0.13.16",
+		"axios": "^1.7.7",
+		"cron": "^3.2.1",
+		"dotenv": "^16.4.5",
+		"process": "^0.11.10"
+	},
+	"devDependencies": {
+		"@types/node": "^22.9.0"
+	}
+}
